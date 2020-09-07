@@ -14,10 +14,10 @@ stage('Checkout') {
 
     }
 
-stage('Clean') {
+/*stage('Clean') {
 
         sh "./gradlew clean"
-    }
+    } */
 
     
 stage('Build')  {
