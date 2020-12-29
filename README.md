@@ -45,8 +45,3 @@ commit ok
 
 ok ok
 
-ok
-ok
-ok
-ok
-ok
